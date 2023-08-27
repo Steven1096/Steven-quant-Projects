@@ -1,0 +1,5 @@
+{
+    "root_url": "https://footystats.org/",
+    "output_file": "result.csv",
+    "leagues": [
+        "albania/superliga"]}
